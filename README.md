@@ -33,5 +33,5 @@ You are free to use, modify, and distribute it, as long as credit is given.
 
 ### ✍️ Authors & Credits
 - **Script & concept:** DraftmanCorp.
-- [Flask](https://palletsprojects.com/p/flask/) - [psutil](https://github.com/giampaolo/psutil) - [pywin32](https://github.com/mhammond/pywin32).
+- Credits also to: [Flask](https://palletsprojects.com/p/flask/) - [psutil](https://github.com/giampaolo/psutil) - [pywin32](https://github.com/mhammond/pywin32).
 - **Technical support & development:** [ChatGPT by OpenAI](https://openai.com/chatgpt)
