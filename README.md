@@ -15,7 +15,7 @@ It provides a clear, user-friendly web interface that displays all active TCP an
 3. Easy termination of processes directly from the interface, with user confirmation and administrative rights required
 4. Color-coded connection statuses for quick visual identification
 5. Manual refresh button to avoid interface flickering and unwanted list shifts
-6. Responsive, clean UI that truncates long text gracefully
+6. Responsive, clean UI
 
 ---
 
