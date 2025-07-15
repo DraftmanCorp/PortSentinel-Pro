@@ -1,5 +1,5 @@
 # PortSentinel-Pro
-**Scan all local ports for TCP/UDP status and kill processes. No setup, just run.**
+**Scan all local ports for TCP/UDP status and kill processes. No setup, just run (Administrative rights required).**
 
 ![Preview](https://github.com/DraftmanCorp/PortSentinel-Pro/blob/main/Preview/1.0.0.jpg)
 
@@ -12,9 +12,9 @@ It provides a clear, user-friendly web interface that displays all active TCP an
 ---
 
 ### 📝 Key Features
-1. Real-time monitoring of active network connections (refreshes every 2 seconds)
-2. Detailed process information: PID, process name, executable path, and type (user application or system service)
-3. Easy termination of processes directly from the interface, with user confirmation and administrative rights required
+1. Real-time monitoring of active TCp/UDP connections on every port (refreshes every 2 seconds)
+2. Detailed process information: PID, Parent, Process name, executable path, and type (user application or system service)
+3. Easy termination of processes directly from the interface, with user confirmation (Administrative rights required)
 4. Color-coded connection statuses for quick visual identification
 5. Manual refresh button to avoid interface flickering and unwanted list shifts
 6. Responsive, clean UI
@@ -22,8 +22,9 @@ It provides a clear, user-friendly web interface that displays all active TCP an
 ---
 
 ### 🚀 Requirements & How to Use
-1. Windows 10+ Operating System
-2. Run with administrator privileges to terminate certain processes
+1. Windows 8/8.1/10/11 Operating System
+2. Or any PC compatible with Edge WebView2 Runtime + Powershell 5+
+3. Run with administrator privileges to load, monitor/see and terminate certain processes
 
 ---
 
