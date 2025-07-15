@@ -1,6 +1,8 @@
 # PortSentinel-Pro
 **Scan all local ports for TCP/UDP status and kill processes. No setup, just run.**
 
+![Preview](https://github.com/DraftmanCorp/PortSentinel-Pro/blob/main/Preview/1.0.0.jpg)
+
 ### 🧠 What is LinkSentinel Pro.?
 
 This project uses Flask, psutil, and pywin32 under their respective licenses.
